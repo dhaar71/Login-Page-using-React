@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  font-family: "Quicksand";
+  color: #333;
+}
+.primary-button {
+  margin-top: 5rem;
+  margin-right: 1rem;
+  padding: .6rem;
+  width: 10rem;
+  background: #222;
+  border: none;
+  color: #fff;
+  font-size: 1.2rem;
+  transition: all .5s;
+  cursor: pointer;
+  text-transform: capitalize
+}
+/* for home */
+.box1{
+  align-items: center;
+}
+
+.main-title {
+  padding-top: 10rem;
+  font-size: 16px;
+  font-family: 'Fascinate', cursive;
+  text-transform: uppercase
+}
